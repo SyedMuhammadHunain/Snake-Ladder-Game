@@ -15,9 +15,11 @@
 * The Dice.h defines the dice rolling mechanics for the Snake & Ladder game, including animations, player updates, and special events like encountering snakes or       ladders.
 
 #### HOW TO RUN
-* In order to run this game
-    * Firstly, download all the files and places them in a folder.
-    * Add those files in Code Editor and in the terminal write ./MAIN.exe (It will create an executable file) and the game will be opened automatically.
-    * Enjoy the Game! make this more good and sound and manage the heading too adjust them and reaplce with the good one and alos add with the name teh           
-      contributing of each student in the bracket like coder resousrce manager 
+* In order to run the game
+     * Create a folder and paste all the files there.
+     * Your folder must contains Dice.h, Info.h, MAIN.c, Players.h, Resources.h, Screens.h, Snake_Ladder.h & a Resources Folder.
+     * In Resources Folder there must be nine images including the Dice images, board images and a main background image and a logo in png format.
+     * In the Resources Folder there must be a Fonts Folder which contains a myfont.ttf file.
+     * Now head over into the MAIN.c file and open with the code editor and in the terminal write ./MAIN.exe & the game will be opened automatically.
+     * Enjoy the game!
  
