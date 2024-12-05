@@ -1,4 +1,4 @@
-                                                          NED FIRST SEMESTER PROJECT
+                                                          NED 1st Semester Project
 #### SNAKE & LADDER GAME PROJECT
                                                     
 #### MEMBERS / CONTRIBUTORS
