@@ -5,7 +5,7 @@
 * Syed Muhammad Hunain 
 * Sarim Khan
 * Muhammad Maaz Ali
-* Muhammad Umer
+* Muhammad Umer Pervez
 
 #### PROJECT HIGHLIGHTS
 * This file contains the main entry point for the Snake & Ladder game, managing the game loop, screen transitions, and resource loading/unloading using raylib for       graphical rendering.
